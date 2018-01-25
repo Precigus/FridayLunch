@@ -9,7 +9,11 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+<<<<<<< HEAD
 a
+=======
+
+>>>>>>> b312e4b4f9b212f82b0f64de064696476de28a4b
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -258,4 +262,8 @@ paket-files/
 
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
+<<<<<<< HEAD
 *.pyc
+=======
+*.pyc
+>>>>>>> b312e4b4f9b212f82b0f64de064696476de28a4b
