@@ -13,28 +13,13 @@
     </script>
 </head>
 <body>
-    <div class="navbar navbar-inverse navbar-fixed-top ">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-            </div>
-            <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav center">
-                    <li>@Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })</li>
+    @Html.Partial("_NavBar")
 
-                </ul>
-            </div>
-        </div>
-    </div>
     <!--  class=container body-content -->
 
     <div class="header-container">
         <div class="video-container">
-            <video autoplay="autoplay" loop="loop" muted>
+            <video autoplay="autoplay" loop="loop" muted >
                 <source src="~/Video/mainvideo.mp4" />
             </video>
         </div>
@@ -42,8 +27,8 @@
         @RenderBody()
 
         <footer>
-            </div><!-- END OF HEADER-CONTAINER-->
-        </footer>
+    </div><!-- END OF HEADER-CONTAINER-->
+    </footer>
 
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
