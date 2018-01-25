@@ -147,10 +147,10 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Models\FoodMenu.cs" />
+    <Compile Include="Models\FoodModel.cs" />
     <Compile Include="Models\LoginModel.cs" />
-    <Compile Include="Models\Order.cs" />
-    <Compile Include="Models\User.cs" />
+    <Compile Include="Models\OrderModel.cs" />
+    <Compile Include="Models\UserModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

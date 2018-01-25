@@ -5,7 +5,7 @@ using System.Web;
 
 namespace FridayLunch.Models
 {
-    public class FoodMenu
+    public class FoodModel
     {
         public string MainDish { get; set; }
         public bool IsIncludedSideDish { get; set; }
