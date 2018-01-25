@@ -15,16 +15,16 @@ namespace FridayLunch.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult ChangePassword()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Change Your password.";
 
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult MainWindow()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Main window here.";
 
             return View();
         }
