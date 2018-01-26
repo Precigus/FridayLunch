@@ -1,4 +1,4 @@
-﻿@model FridayLunch.Models.LoginModel
+﻿@model FridayLunch.Models.UserModel
 @{
     ViewBag.Title = "Friday Lunch";
 }
@@ -7,10 +7,10 @@
     <div class="col-lg-12 col-md-12 col-sm-12">
         <div class="main-form-container">
             <h2>Friday Lunch</h2>
-            @using (Html.BeginForm("Login", "Admin"))
+            @using (Html.BeginForm("Login", "User", FormMethod.Post))
             {
                 <div class="form-group">
-                    @Html.TextBoxFor(m=>m.UserName)
+                    @Html.TextBoxFor(m => m.Username)
                 </div>
                 <div class="form-group">
                     @Html.PasswordFor(m => m.Password)
@@ -19,7 +19,7 @@
                     <button type="submit" class="btn btn-default">Login</button>
                 </div>
                 <ul>
-                    <li class="onclick-alert" >Forgot password?</li>
+                    <li class="onclick-alert">Forgot password?</li>
                     <li>@Html.ActionLink("Change", "ChangePassword", "Home")</li>
                 </ul>
             }

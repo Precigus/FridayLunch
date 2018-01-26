@@ -15,31 +15,31 @@ namespace FridayLunch.Controllers
             return View();
         }
 
-        [HttpPost]
-        public ActionResult Login(LoginModel model)
-        {
-            if (ModelState.IsValid)
-            {
+        //[HttpPost]
+        //public ActionResult Login(LoginModel model)
+        //{
+        //    if (ModelState.IsValid)
+        //    {
 
-                var user = new UserModel
-                {
-                    UserName = model.UserName,
-                    Password = model.Password
-                };
-                // collection.insertOne(user)
-                // Call to database MONGO
-                // Check if exist
-                // if yes redirect to home screen
-                // else back to login with prefiled values
-                return RedirectToAction("MainWindow","Home");
-            }
-            return RedirectToAction("Index", "Home", model);
-        }
+        //        var user = new UserModel
+        //        {
+        //            UserName = model.UserName,
+        //            Password = model.Password
+        //        };
+        //        // collection.insertOne(user)
+        //        // Call to database MONGO
+        //        // Check if exist
+        //        // if yes redirect to home screen
+        //        // else back to login with prefiled values
+        //        return RedirectToAction("MainWindow","Home");
+        //    }
+        //    return RedirectToAction("Index", "Home", model);
+        //}
 
-        public ActionResult EditUsers()
-        {
+        //public ActionResult EditUsers()
+        //{
 
-            return RedirectToAction("Users", "Admin");
-        }
+        //    return RedirectToAction("Users", "Admin");
+        //}
     }
 }
