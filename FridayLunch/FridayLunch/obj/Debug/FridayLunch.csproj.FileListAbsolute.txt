@@ -40,3 +40,13 @@ D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\obj\Debug\FridayLunch.cspr
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\obj\Debug\FridayLunch.csproj.CoreCompileInputs.cache
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\obj\Debug\FridayLunch.dll
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\obj\Debug\FridayLunch.pdb
+D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\DnsClient.dll
+D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\MongoDB.Bson.dll
+D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\MongoDB.Driver.Core.dll
+D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\MongoDB.Driver.dll
+D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\System.Buffers.dll
+D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\DnsClient.xml
+D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\MongoDB.Bson.xml
+D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\MongoDB.Driver.xml
+D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\MongoDB.Driver.Core.xml
