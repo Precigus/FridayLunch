@@ -3,6 +3,7 @@ D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\FridayLunch.dll.config
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\FridayLunch.dll
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\FridayLunch.pdb
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\Antlr3.Runtime.dll
+D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\DnsClient.dll
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\Microsoft.AI.Agent.Intercept.dll
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\Microsoft.AI.DependencyCollector.dll
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -12,7 +13,12 @@ D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\Microsoft.AI.WindowsSe
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\Microsoft.ApplicationInsights.dll
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\MongoDB.Bson.dll
+D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\MongoDB.Driver.Core.dll
+D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\MongoDB.Driver.dll
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\Newtonsoft.Json.dll
+D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\System.Buffers.dll
+D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\System.Runtime.InteropServices.RuntimeInformation.dll
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\System.Web.Helpers.dll
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\System.Web.Mvc.dll
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\System.Web.Optimization.dll
@@ -21,7 +27,11 @@ D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\System.Web.WebPages.De
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\System.Web.WebPages.dll
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\System.Web.WebPages.Razor.dll
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\WebGrease.dll
+D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\DnsClient.xml
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\MongoDB.Bson.xml
+D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\MongoDB.Driver.xml
+D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\MongoDB.Driver.Core.xml
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\System.Web.Helpers.xml
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\System.Web.Mvc.xml
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\System.Web.Optimization.xml
@@ -40,13 +50,3 @@ D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\obj\Debug\FridayLunch.cspr
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\obj\Debug\FridayLunch.csproj.CoreCompileInputs.cache
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\obj\Debug\FridayLunch.dll
 D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\obj\Debug\FridayLunch.pdb
-D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\DnsClient.dll
-D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\MongoDB.Bson.dll
-D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\MongoDB.Driver.Core.dll
-D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\MongoDB.Driver.dll
-D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\System.Buffers.dll
-D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\System.Runtime.InteropServices.RuntimeInformation.dll
-D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\DnsClient.xml
-D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\MongoDB.Bson.xml
-D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\MongoDB.Driver.xml
-D:\Projects\Repos\FridayLunch\FridayLunch\FridayLunch\bin\MongoDB.Driver.Core.xml
